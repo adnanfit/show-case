@@ -10,10 +10,11 @@ const Header = ({ children }) => {
         <div className="flex justify-between section-container">
           <a href="#home" className="link">
             <Image
-              src="/logo.svg"
-              alt="Logo - Shubh Porwal"
-              width={25}
-              height={25}
+            className="Logo"
+              src="/logo2.svg"
+              alt="Logo - Afaq Azhar"
+              width={45}
+              height={45}
             />
           </a>
           <div className="outer-menu relative">

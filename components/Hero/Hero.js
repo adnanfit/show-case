@@ -19,7 +19,7 @@ const Hero = () => {
     typeSpeed: 50,
     startDelay: 1500,
     backSpeed: 50,
-    backDelay: 8000,
+    backDelay: 5000,
     loop: true,
   };
 
@@ -84,11 +84,11 @@ const Hero = () => {
         <h5
           className={`${styles.intro} font-mono font-medium text-indigo-light seq`}
         >
-          Hi, my name is
+          Hi, My name is
         </h5>
         <h1 className={`${styles.heroName} text-white text-6xl font-semibold`}>
-          <span className={`relative ${styles.emphasize} seq`}>Shubh</span>
-          <span className="seq"> Porwal</span>
+          <span className={`relative ${styles.emphasize} seq`}>Afaq</span>
+          <span className="seq"> Azhar</span>
         </h1>
         <p>
           <span
