@@ -32,7 +32,7 @@ const Meta = ({ children }) => {
         <meta property="twitter:url" content={METADATA.siteUrl} />
         <meta property="twitter:image" content={METADATA.image} />
 
-        <link
+        {/* <link
           rel="apple-touch-icon"
           sizes="512x512"
           href="/favicons/faviconLogo.png"
@@ -42,7 +42,7 @@ const Meta = ({ children }) => {
           type="image/png"
           sizes="512x512"
           href="/favicons/faviconLogo.png"
-        />
+        /> */}
         <link
           rel="icon"
           type="image/png"

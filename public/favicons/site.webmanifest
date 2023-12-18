@@ -6,11 +6,6 @@
       "src": "/favicons/faviconLogo.png",
       "sizes": "512x512",
       "type": "image/png"
-    },
-    {
-      "src": "/favicons/faviconLogo.png",
-      "sizes": "512x512",
-      "type": "image/png"
     }
   ],
   "theme_color": "#ffffff",
