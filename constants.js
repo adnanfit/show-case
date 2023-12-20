@@ -1,12 +1,12 @@
 export const METADATA = {
-  author: "Afaq Azhar",
-  title: "Portfolio | Afaq Azhar",
+  author: "Abubakar Rehman",
+  title: "Portfolio | Abubakar Rehman",
   description:
-    "Afaq Azhar is a Frontend Developer from Kuwait, interested in crafting beautiful and functional applications.",
-  siteUrl: "https://github.com/AfaqAzhar987",
-  twitterHandle: "@AfaqAzhar786",
+    "Abubakar Rehman is a Frontend Developer from Kuwait, interested in crafting beautiful and functional applications.",
+  siteUrl: "https://github.com/Abubakar420",
+  // twitterHandle: "@AfaqAzhar786",
   keywords: [
-    "Afaq Azhar",
+    "Abubakar Rehman",
     "Frontend Developer",
     "Web Developer",
     "React Native Developer",
@@ -54,24 +54,24 @@ export const TYPED_STRINGS = [
 export const SOCIAL_LINKS = [
   {
     name: "mail",
-    url: "mailto: afaqazhat5@gmail.com",
+    url: "mailto: abubakarrehman395@gmail.com",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/m-afaq-azhar-a0658325a/",
+    url: "https://www.linkedin.com/in/abubakar-rehman-53439b279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
   },
   {
     name: "github",
-    url: "https://github.com/AfaqAzhar987",
+    url: "https://github.com/Abubakar420",
   },
   {
     name: "instagram",
-    url: "https://www.instagram.com/_afaq_azhar_/",
+    url: "https://www.instagram.com/its_mee_abubakar?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr",
   },
-  {
-    name: "twitter",
-    url: "https://twitter.com/afaq558",
-  },
+  // {
+  //   name: "twitter",
+  //   url: "https://twitter.com/afaq558",
+  // },
 ];
 
 export const SKILLS = {
@@ -103,11 +103,14 @@ export const SKILLS = {
     // "chakra-ui",
   ],
   databases: [
-    // "mysql" 
-    , "mongodb"],
-  other: ["git", 
-  // "sanity-io"
-],
+    ,
+    // "mysql"
+    "mongodb",
+  ],
+  other: [
+    "git",
+    // "sanity-io"
+  ],
 };
 
 export const PROJECTS = [
@@ -127,7 +130,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/airbnb-blur.webp",
     description: "Airbnb UI clone using NextJS + Tailwind CSS 🛏️",
     gradient: ["#F14658", "#DC2537"],
-    url: "https://github.com/AfaqAzhar987",
+    url: "https://github.com/Abubakar420",
     tech: ["react", "nextjs", "tailwindcss", "mapbox"],
   },
   {
@@ -136,7 +139,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/medium-blur.webp",
     description: "Medium UI clone using NextJS + Tailwind CSS ✍🏻",
     gradient: ["#FFA62E", "#EA4D2C"],
-    url: "https://github.com/AfaqAzhar987",
+    url: "https://github.com/Abubakar420",
     tech: ["typescript", "react", "nextjs", "tailwindcss", "sanity.io"],
   },
   {
@@ -146,7 +149,7 @@ export const PROJECTS = [
     description:
       "Conversational Voice Controlled React News Application using Alan AI 🎙",
     gradient: ["#000066", "#6699FF"],
-    url: "https://github.com/AfaqAzhar987",
+    url: "https://github.com/Abubakar420",
     tech: ["react", "chakra-ui", "alan"],
   },
   {
@@ -155,7 +158,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/tesla-blur.webp",
     description: "A Tesla React Native App 🏎️",
     gradient: ["#142D46", "#2E4964"],
-    url: "https://github.com/AfaqAzhar987",
+    url: "https://github.com/Abubakar420",
     tech: ["react"],
   },
 ];
@@ -173,7 +176,8 @@ export const WORK = [
     //   "The app boasts a DAU base of 13k and an extensive MAU count of 170k.",
     // ],
     // url: "https://webpro-dev.falconweb.app/",
-    video: "https://media.falconconsulting.fr/uploads/videos/falcon-video-without-tags.mp4",
+    video:
+      "https://media.falconconsulting.fr/uploads/videos/falcon-video-without-tags.mp4",
   },
   // {
   //   id: 2,

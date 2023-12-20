@@ -10,9 +10,9 @@ const Header = ({ children }) => {
         <div className="flex justify-between section-container">
           <a href="#home" className="link">
             <Image
-            className="Logo"
+              className="Logo"
               src="/logo2.svg"
-              alt="Logo - Afaq Azhar"
+              alt="Logo - Abubakar Rehman"
               width={45}
               height={45}
             />

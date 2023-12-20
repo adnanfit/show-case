@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Portfolio | Afaq Azhar",
-  "short_name": "Afaq Azhar",
-  "description": "Afaq Azhar's Portfolio Website.",
+  "name": "Portfolio | Abubakar Rehman",
+  "short_name": "Abubakar Rehman",
+  "description": "Abubakar Rehman's Portfolio Website.",
   "icons": [
     {
       "src": "/icon-192x192.png",

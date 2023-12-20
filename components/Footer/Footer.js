@@ -51,11 +51,12 @@ const Footer = () => {
             </div>
             <div className="seq pt-4 text-center">
               <Button
-                href={`#${MENULINKS[4].ref}`}
+                href="https://wa.me/03204585635"
                 classes="link"
                 type="secondary"
               >
-                Let&apos;s Talk
+                Let&apos;s Talk{" "}
+                {/* <a href="https://wa.me/YOUR_PHONE_NUMBER" class="whatsapp-button" target="_blank">Chat on WhatsApp</a> */}
               </Button>
             </div>
             <p className="text-center text-white text-sm sm:text-base font-medium tracking-wide mt-8">
@@ -65,7 +66,7 @@ const Footer = () => {
                   ❤️
                 </span>
               </button>{" "}
-              by <span className="text-white">Afaq Azhar</span>
+              by <span className="text-white">Abubakar Rehman</span>
             </p>
           </div>
         </div>

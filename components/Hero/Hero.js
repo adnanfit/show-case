@@ -87,8 +87,8 @@ const Hero = () => {
           Hi, My name is
         </h5>
         <h1 className={`${styles.heroName} text-white text-6xl font-semibold`}>
-          <span className={`relative ${styles.emphasize} seq`}>Afaq</span>
-          <span className="seq"> Azhar</span>
+          <span className={`relative ${styles.emphasize} seq`}>Abubakar</span>
+          <span className="seq"> Rehman</span>
         </h1>
         <p>
           <span
@@ -100,7 +100,11 @@ const Hero = () => {
           <Profiles />
         </div>
         <div className="seq pt-4">
-          <Button href={`#${MENULINKS[4].ref}`} classes="link" type="primary">
+          <Button
+            href="https://wa.me/03204585635"
+            classes="link"
+            type="primary"
+          >
             Let&apos;s Talk
           </Button>
         </div>
